@@ -1,5 +1,5 @@
 <?php
-
+namespace App\model;
 class Connn {
     //ṕadrão singleton
     private static $instance;
